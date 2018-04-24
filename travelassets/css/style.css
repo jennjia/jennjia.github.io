@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-	font-family: 'Droid Sans';
+	font-family: 'Lato', sans-serif;
 	background-color: #FFFCF5;
 }
 
@@ -28,8 +28,8 @@ body {
 	font-weight: bold;
 	color: #FFD97D;
 	font-size: 64px;
-	margin-top: -74px;
-	margin-right: 12px;
+	margin-top: -77px;
+	margin-right: 13px;
 }
 
 #header {
