@@ -1,0 +1,135 @@
+html, body {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+body {
+	font-family: 'Droid Sans';
+	background-color: #FFFCF5;
+}
+
+#header {
+	position: absolute;
+	top: 35px;
+	right: 35px;
+}
+
+#header-item {
+	font-weight: bold;
+	font-size: 44px;
+	color: #25291C;
+}
+
+#header-item:hover {
+	color: #FFD97D;
+	cursor: pointer;
+}
+
+#content {
+	position: absolute;
+	top: 35%;
+	left: 25%;
+}
+
+#chat-text{
+	font-size: 14px;
+	z-index: 3;
+	position: absolute;
+	top: 40%;
+	left: 14%;
+}
+
+#chatbubble {
+	position: absolute;
+	z-index: 2;
+	top: -154px;
+	left: 50px;
+}
+
+#navbar {
+	position: absolute;
+	transform: rotate(-90deg);
+	display: flex;
+	top: 40%;
+	left: -160px;
+}
+
+.navbar-item {
+	/*margin-right: 40px;
+	margin-left: 40px;*/
+	font-size: 24px;
+	color: #25291C;
+	height: 60px;
+	width: 160px;
+	border-left: 2px solid #FFD97D;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#third {
+	border-right: 2px solid #FFD97D;
+}
+
+.navbar-item:hover {
+	/*color: #FFD97D;*/
+	cursor: pointer;
+	background: #FFD97D;
+	opacity: 0.8;
+	font-weight: bolder;
+}
+
+#image {
+	box-shadow: 2px 4px 4px grey; 
+}
+
+#image-container {
+	position: absolute;
+	z-index: 1;
+	top: 1px;
+	left: 164px;
+}
+
+#image-container:hover {
+	cursor: pointer;
+}
+
+#yellow-circle {
+	position: absolute;
+	width: 360px;
+    height: 360px;
+    border-radius: 50%;
+    background: #FFD97D;
+    left: 190px;
+    top: -35px;
+}
+/*
+.line {
+	height: 60px;
+ 	border-left: 2px solid #FFD97D;
+ 	position: absolute;
+}
+
+#one {
+	position: absolute;
+	top: -15px;
+	right: 5px;
+}
+
+#two {
+	position: absolute;
+	top: -15px;
+ 	right: 190px;
+}
+
+#three {
+	position: absolute;
+	top: -15px;
+	right: 350px;
+}
+
+#four {
+	position: absolute;
+	top: -15px;
+	right: 510px;
+}*/
