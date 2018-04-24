@@ -8,10 +8,20 @@ body {
 	background-color: #FFFCF5;
 }
 
+#home {
+	position: absolute;
+	top: 5%;
+	left: 5%;
+}
+
+#home:hover {
+	cursor: pointer;
+}
+
 #header {
 	position: absolute;
-	top: 35px;
-	right: 35px;
+	top: 28px;
+	right: 28px;
 }
 
 #header-item {
