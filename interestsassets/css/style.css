@@ -79,7 +79,7 @@ body {
 }
 
 #sun {
-	margin-right: 10px;
+	margin-right: 3px;
 }
 
 #images {
@@ -92,9 +92,9 @@ body {
 	border: 3px solid #FFD97D;
 	margin-top: 58px;
 	margin-bottom: 20px;
-	margin-left: 40px;
+	margin-left: 44px;
 	width: 300px;
-	height: 300px;
+	height: 385px;
 	transform: rotate(-90deg);
 }
 
@@ -123,8 +123,8 @@ body {
 	position: absolute;
 	top: 318px;
 	left: 62%;
-	height: 350px;
-	width: 350px;
+	height: 330px;
+	width: 330px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
