@@ -108,7 +108,7 @@ body {
 
 #fencer-container {
 	position: absolute;
-	top: 30px;
+	top: 40px;
 	left: 62%;
 	height: 330px;
 	width: 330px;
@@ -121,7 +121,7 @@ body {
 
 #afx-container {
 	position: absolute;
-	top: 318px;
+	top: 380px;
 	left: 62%;
 	height: 330px;
 	width: 330px;
